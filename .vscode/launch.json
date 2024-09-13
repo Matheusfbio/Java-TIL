@@ -1,0 +1,203 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Strings",
+      "request": "launch",
+      "mainClass": "strings.Strings",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "String",
+      "request": "launch",
+      "mainClass": "strings.String",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "String",
+      "request": "launch",
+      "mainClass": "Strings.String",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "typeCasting",
+      "request": "launch",
+      "mainClass": "TypeCasting.typeCasting",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "realLife",
+      "request": "launch",
+      "mainClass": "Datatypes.realLife",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "realLife",
+      "request": "launch",
+      "mainClass": "realLife",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "Real",
+      "request": "launch",
+      "mainClass": "Real",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "showPointRegister",
+      "request": "launch",
+      "mainClass": "ponto.model.showPointRegister",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "ClockPoint",
+      "request": "launch",
+      "mainClass": "ponto.showPointResgister.ClockPoint",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "showPointRegister",
+      "request": "launch",
+      "mainClass": "ponto.showPointResgister.showPointRegister",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "ClockPoint",
+      "request": "launch",
+      "mainClass": "ponto.ClockPoint",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraDeMedias",
+      "request": "launch",
+      "mainClass": "debugging.CalculadoraDeMedias",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "debugging.Main",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "expections",
+      "request": "launch",
+      "mainClass": "expections",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "expections",
+      "request": "launch",
+      "mainClass": "exceptionsStructure.expections",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "estrtrutraCondicionalTernaria",
+      "request": "launch",
+      "mainClass": "conditionStructure.estrtrutraCondicionalTernaria",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "estruturaCondicionalComposta",
+      "request": "launch",
+      "mainClass": "conditionStructure.estruturaCondicionalComposta",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "estruturaCondicionalEncadeada",
+      "request": "launch",
+      "mainClass": "conditionStructure.estruturaCondicionalEncadeada",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "estruturaCondicionalSimples",
+      "request": "launch",
+      "mainClass": "conditionStructure.estruturaCondicionalSimples",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "estrtrutraCondicionalSwitch",
+      "request": "launch",
+      "mainClass": "estruturaCondicional.estrtrutraCondicionalSwitch",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "Expections",
+      "request": "launch",
+      "mainClass": "exceptionsStructure.Expections",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "BreakandContinue",
+      "request": "launch",
+      "mainClass": "repetitionStructure.BreakandContinue",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "ExampleDoWhile",
+      "request": "launch",
+      "mainClass": "repetitionStructure.ExampleDoWhile",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "ExampleWhile",
+      "request": "launch",
+      "mainClass": "repetitionStructure.ExampleWhile",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "For",
+      "request": "launch",
+      "mainClass": "repetitionStructure.For",
+      "projectName": "java-learn_408f81f6"
+    },
+    {
+      "type": "java",
+      "name": "ForArray",
+      "request": "launch",
+      "mainClass": "repetitionStructure.ForArray",
+      "projectName": "java-learn_408f81f6"
+    }
+  ]
+}
