@@ -2,34 +2,34 @@ package collection.generics.type.list.search;
 
 public class Book {
     //atributos
-    private String title;
-    private String actor;
-    private String yearPublic;
+    private final String title;
+    private final String actor;
+    private final int yearPublic;
 
-    public Book(String title, String actor, String yearPublic) {
+    public Book(String title, String actor, int yearPublic) {
         this.title = title;
         this.actor = actor;
         this.yearPublic = yearPublic;
     }
 
-    public String getTitle() {
-        return title;
+    public int getYearPublic() {
+        return yearPublic;
     }
 
     public String getActor() {
         return actor;
     }
 
-    public String getYearPublic() {
-        return yearPublic;
+    public String getTitle() {
+        return title;
     }
 
     @Override
     public String toString() {
-        return "book{" +
+        return "Book{" +
                 "title='" + title + '\'' +
                 ", actor='" + actor + '\'' +
-                ", yearPublic='" + yearPublic + '\'' +
+                ", yearPublic=" + yearPublic +
                 '}';
     }
 }
