@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SalarioBruto",
+      "request": "launch",
+      "mainClass": "exercicios.SalarioBruto",
+      "projectName": "Java-TIL_e3cd9743"
+    },
+    {
+      "type": "java",
       "name": "operadoresAritimeticos",
       "request": "launch",
       "mainClass": "operadoresAritimeticos",
